@@ -14,14 +14,14 @@ li {
 	padding: 14px 16px;
 	text-decoration: none;
 	font-family: Verdana;
-	font-size: 5 em;
+	font-size: 10 em;
 	font-weight: bold;
 
 }
 
 img {
-	float: center;
-	height: 250px;
-	width: 250px;
+	display: block;
+	margin: auto;
+	width: 40%;
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 }
