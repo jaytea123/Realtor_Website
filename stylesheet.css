@@ -13,4 +13,15 @@ li {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	font-family: Verdana;
+	font-size: 5 em;
+	font-weight: bold;
+
+}
+
+img {
+	float: center;
+	height: 250px;
+	width: 250px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 }
